@@ -1,6 +1,6 @@
 # Monero Release Naming Convention
 
-Monero's naming convention of a chemical element, and a star or constellation or Messier object, and was decided on via a discussion on the official forum in 2015. Alliteration or assonance is also required, for maximum awesomeness. As an example, the first Monero release following this convention was named "Hydrogen Helix".
+Monero's naming convention of a chemical element, and a celestial object, and was decided on via a discussion on the official forum in 2015. Alliteration or assonance is also required, for maximum awesomeness. As an example, the first Monero release following this convention was named "Hydrogen Helix".
 
 Below is a list of elements and galactic bodies, as prepared by palexander.
 
